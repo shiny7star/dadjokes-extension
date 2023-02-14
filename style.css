@@ -1,0 +1,18 @@
+body {
+    background-color: lightblue;
+    display: flex;
+    width: 300px;
+    height: 300px;
+    justify-content: center;
+  }
+  
+
+  p {
+    display: inner-flex;
+    font-family: verdana;
+    margin:auto 10px;
+    font-size: 20px;
+    color:blue;
+    border: 2px solid darkturquoise ;
+    padding: 10px;
+  }
